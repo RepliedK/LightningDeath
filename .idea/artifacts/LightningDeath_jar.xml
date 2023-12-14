@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LightningDeath:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LightningDeath_jar</output-path>
+    <root id="archive" name="LightningDeath.jar">
+      <element id="module-output" name="LightningDeath" />
+    </root>
+  </artifact>
+</component>
